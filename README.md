@@ -38,6 +38,7 @@ An interactive dashboard.
 A report on the method and the limits of the data.
 A final data story with recommendations.
 
-A note on limits
+limitations
+
 Reporting differs from country to country, and under-reporting is likely, particularly for killings of women.There are limitations as not all the dataset have all the data.
 
